@@ -237,6 +237,7 @@ a:hover {
     position: relative;
     display: table;
     border-collapse: separate;
+    direction: initial;
     &[class*="col-"] {
         float: none;
         padding-left: 0;
